@@ -1,4 +1,30 @@
+body, caja{
+    font-size: large;
+}
 h1{
+    margin-left: 150px;
+    text-align: center;
     background-color: blue;
     color: #000;
+    border-radius: 20px;
+    width:550px;
+}
+p{
+    background-color: blueviolet;
+    border-radius: 15px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+button, boton{
+    background-color: black;
+    border-radius: 12px;
+    color: red;
+    width: 100px;
+    margin-top: 50px;
+
+}
+img{
+    width:430px;
+    border-radius: 12%;
+    align-self: center;
 }
